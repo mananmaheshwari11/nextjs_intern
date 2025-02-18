@@ -41,7 +41,7 @@ const Navbar = () => {
             </div>
 
             <div className="flex md:hidden items-center space-x-2">
-              <Link href="/login" className="bg-gray-900 text-white px-4 py-1.5 rounded-full text-sm font-roboto hover:bg-gray-800 transition-colors">
+              <Link href="/signin" className="bg-gray-900 text-white px-4 py-1.5 rounded-full text-sm font-roboto hover:bg-gray-800 transition-colors">
                 Log In
               </Link>
               <button

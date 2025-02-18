@@ -28,7 +28,8 @@ function LandingPage(){
             <p className="mt-4 text-xl text-gray-600 font-roboto max-w-xl mx-auto">
               A real time solution for user Management
             </p>
-            <button className="mt-8 px-8 py-3 bg-gray-900 text-white rounded-full font-roboto text-lg hover:bg-gray-800 transition-colors">
+            <button className="mt-8 px-8 py-3 bg-gray-900 text-white rounded-full font-roboto text-lg hover:bg-gray-800 transition-colors"
+            onClick={()=>router.push('/signup')}>
               Get Started
             </button>
           </div>

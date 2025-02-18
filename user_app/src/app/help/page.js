@@ -19,7 +19,7 @@ export default function FeedbackForm() {
 
   return (
     <>
-    <h1 className='text-4xl text-center font-serif mt-10'>userSphere Connectivity</h1>
+    <h1 className='text-4xl text-center font-serif mt-10'>userSphere Help</h1>
     <div className="flex justify-center items-center mt-20">
       <form className="w-96 p-6 bg-white shadow-lg rounded-lg" onSubmit={handleSubmit}>
         <h2 className="text-2xl text-center font-bold  mb-4">Feedback & Grievances</h2>
