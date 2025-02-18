@@ -1,0 +1,11 @@
+{
+  "name": "nextjs_intern",
+  "version": "1.0.0",
+  "description": "\"Nextjs application\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"manan\"",
+  "license": "ISC"
+}
